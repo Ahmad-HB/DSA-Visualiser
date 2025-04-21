@@ -23,7 +23,9 @@
         
         <FontFamily x:Key="Gugi">/Assets/Fonts/Gugi.ttf#Gugi</FontFamily>
         
-        <FontFamily x:Key="Phosphor">/Assets/Fonts/Phosphor-Duotone.ttf#Phosphor</FontFamily>
+        <FontFamily x:Key="Phosphor">/Assets/Fonts/Phosphor.ttf#Phosphor</FontFamily>
+        <FontFamily x:Key="PhosphorDuotone">/Assets/Fonts/Phosphor-Duotone.ttf#Phosphor-Duotone</FontFamily>
+        <FontFamily x:Key="PhosphorFill">/Assets/Fonts/Phosphor-Fill.ttf#Phosphor-Fill</FontFamily>
         
     </Application.Resources>
 </Application>

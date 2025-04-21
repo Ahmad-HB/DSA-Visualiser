@@ -14,17 +14,49 @@
                     <Image Source="{SvgImage /Assets/Images/svgviewer-output.svg}" Width="220"></Image>
                     <Button HorizontalAlignment="Stretch">
                         <StackPanel Orientation="Horizontal">
+                            <Label Classes="icon" Content="&#xE2C2;"></Label>
                             <Label Content="Home"></Label>
                         </StackPanel>
                     </Button>
-                    <Button Content="Linked List"  HorizontalAlignment="Stretch"></Button>
-                    <Button Content="Stack"  HorizontalAlignment="Stretch"></Button>
-                    <Button Content="Queue"  HorizontalAlignment="Stretch"></Button>
-                    <Button Content="Tree"  HorizontalAlignment="Stretch"></Button>
-                    <Button Content="Graph"  HorizontalAlignment="Stretch"></Button>
+                    <Button HorizontalAlignment="Stretch">
+                        <StackPanel Orientation="Horizontal">
+                            <Label Classes="icon" Content="&#xE85E;"></Label>
+                            <Label Content="Linked List"></Label>
+                        </StackPanel>
+                    </Button>
+                    <Button HorizontalAlignment="Stretch">
+                        <StackPanel Orientation="Horizontal">
+                            <Label Classes="icon" Content="&#xE466;"></Label>
+                            <Label Content="Stack"></Label>
+                        </StackPanel>
+                    </Button>
+                    <Button HorizontalAlignment="Stretch">
+                        <StackPanel Orientation="Horizontal">
+                            <Label Classes="icon" Content="&#xE5A2;"></Label>
+                            <Label Content="Queue"></Label>
+                        </StackPanel>
+                    </Button>
+                    <Button HorizontalAlignment="Stretch">
+                        <StackPanel Orientation="Horizontal">
+                            <Label Classes="icon" Content="&#xE67C;"></Label>
+                            <Label Content="Tree"></Label>
+                        </StackPanel>
+                    </Button>
+                    <Button HorizontalAlignment="Stretch">
+                        <StackPanel Orientation="Horizontal">
+                            <Label Classes="icon" Content="&#xEB58;"></Label>
+                            <Label Content="Graph"></Label>
+                        </StackPanel>
+                    </Button>
                 </StackPanel>
                 
-                <Button Grid.Row="1" Content="Settings" Foreground="#F2F2F2" ></Button>
+                <Button Grid.Row="1" HorizontalAlignment="Stretch">
+                    <StackPanel Orientation="Horizontal">
+                        <Label Classes="icon" Content="&#xE270;"></Label>
+                        <Label Content="Settings"></Label>
+                    </StackPanel>
+                </Button>
+                
             </Grid>
         </Border>
     
