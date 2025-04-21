@@ -41,5 +41,7 @@
       <AvaloniaResource Include="Assets\Fonts\Phosphor-Light.ttf" />
       <None Remove="Assets\Fonts\Phosphor-Thin.ttf" />
       <AvaloniaResource Include="Assets\Fonts\Phosphor-Thin.ttf" />
+      <None Remove="Assets\Fonts\Gugi.ttf" />
+      <AvaloniaResource Include="Assets\Fonts\Gugi.ttf" />
     </ItemGroup>
 </Project>

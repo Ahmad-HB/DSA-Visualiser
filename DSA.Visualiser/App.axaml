@@ -21,6 +21,9 @@
         <SolidColorBrush x:Key="PrimaryBackgroundButtonHover">#495267</SolidColorBrush>
         <SolidColorBrush x:Key="PrimaryForegroundHover">White</SolidColorBrush>
         
+        <FontFamily x:Key="Gugi">/Assets/Fonts/Gugi.ttf#Gugi</FontFamily>
+        
+        <FontFamily x:Key="Phosphor">/Assets/Fonts/Phosphor-Duotone.ttf#Phosphor</FontFamily>
         
     </Application.Resources>
 </Application>
