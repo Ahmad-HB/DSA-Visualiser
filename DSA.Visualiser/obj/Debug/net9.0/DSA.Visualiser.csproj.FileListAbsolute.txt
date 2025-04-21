@@ -64,3 +64,11 @@
 /Users/ahmad/RiderProjects/DSA.Visualiser/DSA.Visualiser/obj/Debug/net9.0/DSA.Visu.FD94D9E0.Up2Date
 /Users/ahmad/RiderProjects/DSA.Visualiser/DSA.Visualiser/obj/Debug/net9.0/DSA.Visualiser.genruntimeconfig.cache
 /Users/ahmad/RiderProjects/DSA.Visualiser/DSA.Visualiser/obj/Debug/net9.0/ref/DSA.Visualiser.dll
+/Users/ahmad/RiderProjects/DSA.Visualiser/DSA.Visualiser/obj/Debug/net9.0/DSA.Visualiser.sourcelink.json
+/Users/ahmad/RiderProjects/DSA.Visualiser/DSA.Visualiser/bin/Debug/net9.0/Avalonia.Svg.Skia.dll
+/Users/ahmad/RiderProjects/DSA.Visualiser/DSA.Visualiser/bin/Debug/net9.0/ExCSS.dll
+/Users/ahmad/RiderProjects/DSA.Visualiser/DSA.Visualiser/bin/Debug/net9.0/ShimSkiaSharp.dll
+/Users/ahmad/RiderProjects/DSA.Visualiser/DSA.Visualiser/bin/Debug/net9.0/SkiaSharp.HarfBuzz.dll
+/Users/ahmad/RiderProjects/DSA.Visualiser/DSA.Visualiser/bin/Debug/net9.0/Svg.Custom.dll
+/Users/ahmad/RiderProjects/DSA.Visualiser/DSA.Visualiser/bin/Debug/net9.0/Svg.Model.dll
+/Users/ahmad/RiderProjects/DSA.Visualiser/DSA.Visualiser/bin/Debug/net9.0/Svg.Skia.dll

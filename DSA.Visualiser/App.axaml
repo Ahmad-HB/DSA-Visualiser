@@ -8,7 +8,19 @@
         <FluentTheme />
         <StyleInclude Source="Styles/AppDefaultStyles.axaml"></StyleInclude>
     </Application.Styles>
-             <Application.Resources>
-                 <SolidColorBrush x:Key="PrimaryBackground">#14172D</SolidColorBrush>
-             </Application.Resources>
+             
+    <Application.Resources>
+        <SolidColorBrush x:Key="PrimaryBackground">#14213D</SolidColorBrush>
+        <SolidColorBrush x:Key="PrimaryForeground">#F2F2F2</SolidColorBrush>
+        <LinearGradientBrush x:Key="PrimaryBackgroundGradient" StartPoint="0%, 0%" EndPoint="100%, 0%">
+            <GradientStop Offset="0" Color="#050921"></GradientStop>
+            <GradientStop Offset="1" Color="#0e172a"></GradientStop>
+        </LinearGradientBrush>
+        
+        
+        <SolidColorBrush x:Key="PrimaryBackgroundButtonHover">#495267</SolidColorBrush>
+        <SolidColorBrush x:Key="PrimaryForegroundHover">White</SolidColorBrush>
+        
+        
+    </Application.Resources>
 </Application>
