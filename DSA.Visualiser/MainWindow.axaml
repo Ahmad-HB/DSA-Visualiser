@@ -4,62 +4,68 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         mc:Ignorable="d" d:DesignWidth="1440" d:DesignHeight="900"
         Width="1440" Height="900"
+        FontFamily="{DynamicResource Gugi}"
         x:Class="DSA.Visualiser.MainWindow"
         Title="DSA.Visualiser">
-    
+
     <Grid Background="{DynamicResource PrimaryBackground}" ColumnDefinitions="Auto,*">
         <Border Padding="20" Background="{DynamicResource PrimaryBackgroundGradient}">
             <Grid RowDefinitions="*, Auto">
                 <StackPanel Spacing="10">
                     <Image Source="{SvgImage /Assets/Images/svgviewer-output.svg}" Width="220"></Image>
+                    
                     <Button HorizontalAlignment="Stretch">
                         <StackPanel Orientation="Horizontal">
                             <Label Classes="icon" Content="&#xE2C2;"></Label>
-                            <Label Content="Home"></Label>
+                            <Label Classes="GugiFont" Content="Home"></Label>
                         </StackPanel>
                     </Button>
+                    
                     <Button HorizontalAlignment="Stretch">
                         <StackPanel Orientation="Horizontal">
-                            <Label Classes="icon" Content="&#xE85E;"></Label>
-                            <Label Content="Linked List"></Label>
+                            <Label Classes="icon" Content="&#xE6D4;"></Label>
+                            <Label Classes="GugiFont" Content="Linked List"></Label>
                         </StackPanel>
                     </Button>
                     <Button HorizontalAlignment="Stretch">
                         <StackPanel Orientation="Horizontal">
                             <Label Classes="icon" Content="&#xE466;"></Label>
-                            <Label Content="Stack"></Label>
+                            <Label Classes="GugiFont" Content="Stack"></Label>
                         </StackPanel>
                     </Button>
+                    
                     <Button HorizontalAlignment="Stretch">
                         <StackPanel Orientation="Horizontal">
                             <Label Classes="icon" Content="&#xE5A2;"></Label>
-                            <Label Content="Queue"></Label>
+                            <Label Classes="GugiFont" Content="Queue"></Label>
                         </StackPanel>
                     </Button>
+                    
                     <Button HorizontalAlignment="Stretch">
                         <StackPanel Orientation="Horizontal">
                             <Label Classes="icon" Content="&#xE67C;"></Label>
-                            <Label Content="Tree"></Label>
+                            <Label Classes="GugiFont" Content="Tree"></Label>
                         </StackPanel>
                     </Button>
+                    
                     <Button HorizontalAlignment="Stretch">
                         <StackPanel Orientation="Horizontal">
                             <Label Classes="icon" Content="&#xEB58;"></Label>
-                            <Label Content="Graph"></Label>
+                            <Label Classes="GugiFont" Content="Graph"></Label>
                         </StackPanel>
                     </Button>
                 </StackPanel>
-                
+
                 <Button Grid.Row="1" HorizontalAlignment="Stretch">
                     <StackPanel Orientation="Horizontal">
                         <Label Classes="icon" Content="&#xE270;"></Label>
-                        <Label Content="Settings"></Label>
+                        <Label Classes="GugiFont" Content="Settings"></Label>
                     </StackPanel>
                 </Button>
-                
+
             </Grid>
         </Border>
-    
+
     </Grid>
-    
+
 </Window>

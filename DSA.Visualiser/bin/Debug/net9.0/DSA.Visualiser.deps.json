@@ -8,67 +8,67 @@
     ".NETCoreApp,Version=v9.0": {
       "DSA.Visualiser/1.0.0": {
         "dependencies": {
-          "Avalonia": "11.1.0",
-          "Avalonia.Desktop": "11.1.0",
-          "Avalonia.Diagnostics": "11.1.0",
-          "Avalonia.Fonts.Inter": "11.1.0",
-          "Avalonia.Svg.Skia": "11.1.0",
-          "Avalonia.Themes.Fluent": "11.1.0"
+          "Avalonia": "11.2.8",
+          "Avalonia.Desktop": "11.2.8",
+          "Avalonia.Diagnostics": "11.2.8",
+          "Avalonia.Fonts.Inter": "11.2.8",
+          "Avalonia.Svg.Skia": "11.2.7.1",
+          "Avalonia.Themes.Fluent": "11.2.8"
         },
         "runtime": {
           "DSA.Visualiser.dll": {}
         }
       },
-      "Avalonia/11.1.0": {
+      "Avalonia/11.2.8": {
         "dependencies": {
-          "Avalonia.BuildServices": "0.0.29",
-          "Avalonia.Remote.Protocol": "11.1.0",
+          "Avalonia.BuildServices": "0.0.31",
+          "Avalonia.Remote.Protocol": "11.2.8",
           "MicroCom.Runtime": "0.11.0"
         },
         "runtime": {
           "lib/net8.0/Avalonia.Base.dll": {
-            "assemblyVersion": "11.1.0.0",
-            "fileVersion": "11.1.0.0"
+            "assemblyVersion": "11.2.8.0",
+            "fileVersion": "11.2.8.0"
           },
           "lib/net8.0/Avalonia.Controls.dll": {
-            "assemblyVersion": "11.1.0.0",
-            "fileVersion": "11.1.0.0"
+            "assemblyVersion": "11.2.8.0",
+            "fileVersion": "11.2.8.0"
           },
           "lib/net8.0/Avalonia.DesignerSupport.dll": {
             "assemblyVersion": "0.7.0.0",
             "fileVersion": "0.7.0.0"
           },
           "lib/net8.0/Avalonia.Dialogs.dll": {
-            "assemblyVersion": "11.1.0.0",
-            "fileVersion": "11.1.0.0"
+            "assemblyVersion": "11.2.8.0",
+            "fileVersion": "11.2.8.0"
           },
           "lib/net8.0/Avalonia.Markup.Xaml.dll": {
-            "assemblyVersion": "11.1.0.0",
-            "fileVersion": "11.1.0.0"
+            "assemblyVersion": "11.2.8.0",
+            "fileVersion": "11.2.8.0"
           },
           "lib/net8.0/Avalonia.Markup.dll": {
-            "assemblyVersion": "11.1.0.0",
-            "fileVersion": "11.1.0.0"
+            "assemblyVersion": "11.2.8.0",
+            "fileVersion": "11.2.8.0"
           },
           "lib/net8.0/Avalonia.Metal.dll": {
-            "assemblyVersion": "11.1.0.0",
-            "fileVersion": "11.1.0.0"
+            "assemblyVersion": "11.2.8.0",
+            "fileVersion": "11.2.8.0"
           },
           "lib/net8.0/Avalonia.MicroCom.dll": {
-            "assemblyVersion": "11.1.0.0",
-            "fileVersion": "11.1.0.0"
+            "assemblyVersion": "11.2.8.0",
+            "fileVersion": "11.2.8.0"
           },
           "lib/net8.0/Avalonia.OpenGL.dll": {
-            "assemblyVersion": "11.1.0.0",
-            "fileVersion": "11.1.0.0"
+            "assemblyVersion": "11.2.8.0",
+            "fileVersion": "11.2.8.0"
           },
           "lib/net8.0/Avalonia.Vulkan.dll": {
-            "assemblyVersion": "11.1.0.0",
-            "fileVersion": "11.1.0.0"
+            "assemblyVersion": "11.2.8.0",
+            "fileVersion": "11.2.8.0"
           },
           "lib/net8.0/Avalonia.dll": {
-            "assemblyVersion": "11.1.0.0",
-            "fileVersion": "11.1.0.0"
+            "assemblyVersion": "11.2.8.0",
+            "fileVersion": "11.2.8.0"
           }
         }
       },
@@ -91,91 +91,91 @@
           }
         }
       },
-      "Avalonia.BuildServices/0.0.29": {},
-      "Avalonia.Controls.ColorPicker/11.1.0": {
+      "Avalonia.BuildServices/0.0.31": {},
+      "Avalonia.Controls.ColorPicker/11.2.8": {
         "dependencies": {
-          "Avalonia": "11.1.0",
-          "Avalonia.Remote.Protocol": "11.1.0"
+          "Avalonia": "11.2.8",
+          "Avalonia.Remote.Protocol": "11.2.8"
         },
         "runtime": {
           "lib/net8.0/Avalonia.Controls.ColorPicker.dll": {
-            "assemblyVersion": "11.1.0.0",
-            "fileVersion": "11.1.0.0"
+            "assemblyVersion": "11.2.8.0",
+            "fileVersion": "11.2.8.0"
           }
         }
       },
-      "Avalonia.Controls.DataGrid/11.1.0": {
+      "Avalonia.Controls.DataGrid/11.2.8": {
         "dependencies": {
-          "Avalonia": "11.1.0",
-          "Avalonia.Remote.Protocol": "11.1.0"
+          "Avalonia": "11.2.8",
+          "Avalonia.Remote.Protocol": "11.2.8"
         },
         "runtime": {
           "lib/net8.0/Avalonia.Controls.DataGrid.dll": {
-            "assemblyVersion": "11.1.0.0",
-            "fileVersion": "11.1.0.0"
+            "assemblyVersion": "11.2.8.0",
+            "fileVersion": "11.2.8.0"
           }
         }
       },
-      "Avalonia.Desktop/11.1.0": {
+      "Avalonia.Desktop/11.2.8": {
         "dependencies": {
-          "Avalonia": "11.1.0",
-          "Avalonia.Native": "11.1.0",
-          "Avalonia.Skia": "11.1.0",
-          "Avalonia.Win32": "11.1.0",
-          "Avalonia.X11": "11.1.0"
+          "Avalonia": "11.2.8",
+          "Avalonia.Native": "11.2.8",
+          "Avalonia.Skia": "11.2.8",
+          "Avalonia.Win32": "11.2.8",
+          "Avalonia.X11": "11.2.8"
         },
         "runtime": {
           "lib/net8.0/Avalonia.Desktop.dll": {
-            "assemblyVersion": "11.1.0.0",
-            "fileVersion": "11.1.0.0"
+            "assemblyVersion": "11.2.8.0",
+            "fileVersion": "11.2.8.0"
           }
         }
       },
-      "Avalonia.Diagnostics/11.1.0": {
+      "Avalonia.Diagnostics/11.2.8": {
         "dependencies": {
-          "Avalonia": "11.1.0",
-          "Avalonia.Controls.ColorPicker": "11.1.0",
-          "Avalonia.Controls.DataGrid": "11.1.0",
-          "Avalonia.Themes.Simple": "11.1.0"
+          "Avalonia": "11.2.8",
+          "Avalonia.Controls.ColorPicker": "11.2.8",
+          "Avalonia.Controls.DataGrid": "11.2.8",
+          "Avalonia.Themes.Simple": "11.2.8"
         },
         "runtime": {
           "lib/net8.0/Avalonia.Diagnostics.dll": {
-            "assemblyVersion": "11.1.0.0",
-            "fileVersion": "11.1.0.0"
+            "assemblyVersion": "11.2.8.0",
+            "fileVersion": "11.2.8.0"
           }
         }
       },
-      "Avalonia.Fonts.Inter/11.1.0": {
+      "Avalonia.Fonts.Inter/11.2.8": {
         "dependencies": {
-          "Avalonia": "11.1.0"
+          "Avalonia": "11.2.8"
         },
         "runtime": {
           "lib/net8.0/Avalonia.Fonts.Inter.dll": {
-            "assemblyVersion": "11.1.0.0",
-            "fileVersion": "11.1.0.0"
+            "assemblyVersion": "11.2.8.0",
+            "fileVersion": "11.2.8.0"
           }
         }
       },
-      "Avalonia.FreeDesktop/11.1.0": {
+      "Avalonia.FreeDesktop/11.2.8": {
         "dependencies": {
-          "Avalonia": "11.1.0",
-          "Tmds.DBus.Protocol": "0.16.0"
+          "Avalonia": "11.2.8",
+          "Tmds.DBus.Protocol": "0.20.0"
         },
         "runtime": {
           "lib/net8.0/Avalonia.FreeDesktop.dll": {
-            "assemblyVersion": "11.1.0.0",
-            "fileVersion": "11.1.0.0"
+            "assemblyVersion": "11.2.8.0",
+            "fileVersion": "11.2.8.0"
           }
         }
       },
-      "Avalonia.Native/11.1.0": {
+      "Avalonia.Native/11.2.8": {
         "dependencies": {
-          "Avalonia": "11.1.0"
+          "Avalonia": "11.2.8"
         },
         "runtime": {
           "lib/net8.0/Avalonia.Native.dll": {
-            "assemblyVersion": "11.1.0.0",
-            "fileVersion": "11.1.0.0"
+            "assemblyVersion": "11.2.8.0",
+            "fileVersion": "11.2.8.0"
           }
         },
         "runtimeTargets": {
@@ -186,116 +186,115 @@
           }
         }
       },
-      "Avalonia.Remote.Protocol/11.1.0": {
+      "Avalonia.Remote.Protocol/11.2.8": {
         "runtime": {
           "lib/net8.0/Avalonia.Remote.Protocol.dll": {
-            "assemblyVersion": "11.1.0.0",
-            "fileVersion": "11.1.0.0"
+            "assemblyVersion": "11.2.8.0",
+            "fileVersion": "11.2.8.0"
           }
         }
       },
-      "Avalonia.Skia/11.1.0": {
+      "Avalonia.Skia/11.2.8": {
         "dependencies": {
-          "Avalonia": "11.1.0",
-          "HarfBuzzSharp": "7.3.0.2",
-          "HarfBuzzSharp.NativeAssets.Linux": "7.3.0.2",
-          "HarfBuzzSharp.NativeAssets.WebAssembly": "7.3.0.2",
-          "SkiaSharp": "2.88.8",
-          "SkiaSharp.NativeAssets.Linux": "2.88.8",
-          "SkiaSharp.NativeAssets.WebAssembly": "2.88.8"
+          "Avalonia": "11.2.8",
+          "HarfBuzzSharp": "8.3.0.1",
+          "HarfBuzzSharp.NativeAssets.Linux": "7.3.0.3",
+          "HarfBuzzSharp.NativeAssets.WebAssembly": "7.3.0.3",
+          "SkiaSharp": "3.116.1",
+          "SkiaSharp.NativeAssets.Linux": "2.88.9",
+          "SkiaSharp.NativeAssets.WebAssembly": "2.88.9"
         },
         "runtime": {
           "lib/net8.0/Avalonia.Skia.dll": {
-            "assemblyVersion": "11.1.0.0",
-            "fileVersion": "11.1.0.0"
+            "assemblyVersion": "11.2.8.0",
+            "fileVersion": "11.2.8.0"
           }
         }
       },
-      "Avalonia.Svg.Skia/11.1.0": {
+      "Avalonia.Svg.Skia/11.2.7.1": {
         "dependencies": {
-          "Avalonia": "11.1.0",
-          "Avalonia.Skia": "11.1.0",
-          "SkiaSharp": "2.88.8",
-          "Svg.Skia": "2.0.0"
+          "Avalonia": "11.2.8",
+          "Avalonia.Skia": "11.2.8",
+          "SkiaSharp": "3.116.1",
+          "Svg.Skia": "3.0.0"
         },
         "runtime": {
           "lib/net8.0/Avalonia.Svg.Skia.dll": {
-            "assemblyVersion": "11.1.0.0",
-            "fileVersion": "11.1.0.0"
+            "assemblyVersion": "11.2.7.1",
+            "fileVersion": "11.2.7.1"
           }
         }
       },
-      "Avalonia.Themes.Fluent/11.1.0": {
+      "Avalonia.Themes.Fluent/11.2.8": {
         "dependencies": {
-          "Avalonia": "11.1.0"
+          "Avalonia": "11.2.8"
         },
         "runtime": {
           "lib/net8.0/Avalonia.Themes.Fluent.dll": {
-            "assemblyVersion": "11.1.0.0",
-            "fileVersion": "11.1.0.0"
+            "assemblyVersion": "11.2.8.0",
+            "fileVersion": "11.2.8.0"
           }
         }
       },
-      "Avalonia.Themes.Simple/11.1.0": {
+      "Avalonia.Themes.Simple/11.2.8": {
         "dependencies": {
-          "Avalonia": "11.1.0"
+          "Avalonia": "11.2.8"
         },
         "runtime": {
           "lib/net8.0/Avalonia.Themes.Simple.dll": {
-            "assemblyVersion": "11.1.0.0",
-            "fileVersion": "11.1.0.0"
+            "assemblyVersion": "11.2.8.0",
+            "fileVersion": "11.2.8.0"
           }
         }
       },
-      "Avalonia.Win32/11.1.0": {
+      "Avalonia.Win32/11.2.8": {
         "dependencies": {
-          "Avalonia": "11.1.0",
-          "Avalonia.Angle.Windows.Natives": "2.1.22045.20230930",
-          "System.Numerics.Vectors": "4.5.0"
+          "Avalonia": "11.2.8",
+          "Avalonia.Angle.Windows.Natives": "2.1.22045.20230930"
         },
         "runtime": {
           "lib/net8.0/Avalonia.Win32.dll": {
-            "assemblyVersion": "11.1.0.0",
-            "fileVersion": "11.1.0.0"
+            "assemblyVersion": "11.2.8.0",
+            "fileVersion": "11.2.8.0"
           }
         }
       },
-      "Avalonia.X11/11.1.0": {
+      "Avalonia.X11/11.2.8": {
         "dependencies": {
-          "Avalonia": "11.1.0",
-          "Avalonia.FreeDesktop": "11.1.0",
-          "Avalonia.Skia": "11.1.0"
+          "Avalonia": "11.2.8",
+          "Avalonia.FreeDesktop": "11.2.8",
+          "Avalonia.Skia": "11.2.8"
         },
         "runtime": {
           "lib/net8.0/Avalonia.X11.dll": {
-            "assemblyVersion": "11.1.0.0",
-            "fileVersion": "11.1.0.0"
+            "assemblyVersion": "11.2.8.0",
+            "fileVersion": "11.2.8.0"
           }
         }
       },
-      "ExCSS/4.2.3": {
+      "ExCSS/4.3.0": {
         "runtime": {
-          "lib/net7.0/ExCSS.dll": {
-            "assemblyVersion": "4.2.3.0",
-            "fileVersion": "4.2.3.0"
+          "lib/net8.0/ExCSS.dll": {
+            "assemblyVersion": "4.3.0.0",
+            "fileVersion": "4.3.0.0"
           }
         }
       },
-      "HarfBuzzSharp/7.3.0.2": {
+      "HarfBuzzSharp/8.3.0.1": {
         "dependencies": {
-          "HarfBuzzSharp.NativeAssets.Win32": "7.3.0.2",
-          "HarfBuzzSharp.NativeAssets.macOS": "7.3.0.2"
+          "HarfBuzzSharp.NativeAssets.Win32": "8.3.0.1",
+          "HarfBuzzSharp.NativeAssets.macOS": "8.3.0.1"
         },
         "runtime": {
-          "lib/net6.0/HarfBuzzSharp.dll": {
+          "lib/net8.0/HarfBuzzSharp.dll": {
             "assemblyVersion": "1.0.0.0",
-            "fileVersion": "7.3.0.2"
+            "fileVersion": "8.3.0.1"
           }
         }
       },
-      "HarfBuzzSharp.NativeAssets.Linux/7.3.0.2": {
+      "HarfBuzzSharp.NativeAssets.Linux/7.3.0.3": {
         "dependencies": {
-          "HarfBuzzSharp": "7.3.0.2"
+          "HarfBuzzSharp": "8.3.0.1"
         },
         "runtimeTargets": {
           "runtimes/linux-arm/native/libHarfBuzzSharp.so": {
@@ -320,7 +319,7 @@
           }
         }
       },
-      "HarfBuzzSharp.NativeAssets.macOS/7.3.0.2": {
+      "HarfBuzzSharp.NativeAssets.macOS/8.3.0.1": {
         "runtimeTargets": {
           "runtimes/osx/native/libHarfBuzzSharp.dylib": {
             "rid": "osx",
@@ -329,8 +328,8 @@
           }
         }
       },
-      "HarfBuzzSharp.NativeAssets.WebAssembly/7.3.0.2": {},
-      "HarfBuzzSharp.NativeAssets.Win32/7.3.0.2": {
+      "HarfBuzzSharp.NativeAssets.WebAssembly/7.3.0.3": {},
+      "HarfBuzzSharp.NativeAssets.Win32/8.3.0.1": {
         "runtimeTargets": {
           "runtimes/win-arm64/native/libHarfBuzzSharp.dll": {
             "rid": "win-arm64",
@@ -357,41 +356,41 @@
           }
         }
       },
-      "ShimSkiaSharp/2.0.0": {
+      "ShimSkiaSharp/3.0.0": {
         "runtime": {
           "lib/net8.0/ShimSkiaSharp.dll": {
-            "assemblyVersion": "2.0.0.0",
-            "fileVersion": "2.0.0.0"
+            "assemblyVersion": "3.0.0.0",
+            "fileVersion": "3.0.0.0"
           }
         }
       },
-      "SkiaSharp/2.88.8": {
+      "SkiaSharp/3.116.1": {
         "dependencies": {
-          "SkiaSharp.NativeAssets.Win32": "2.88.8",
-          "SkiaSharp.NativeAssets.macOS": "2.88.8"
+          "SkiaSharp.NativeAssets.Win32": "3.116.1",
+          "SkiaSharp.NativeAssets.macOS": "3.116.1"
         },
         "runtime": {
-          "lib/net6.0/SkiaSharp.dll": {
-            "assemblyVersion": "2.88.0.0",
-            "fileVersion": "2.88.8.0"
+          "lib/net8.0/SkiaSharp.dll": {
+            "assemblyVersion": "3.116.0.0",
+            "fileVersion": "3.116.1.0"
           }
         }
       },
-      "SkiaSharp.HarfBuzz/2.88.8": {
+      "SkiaSharp.HarfBuzz/3.116.1": {
         "dependencies": {
-          "HarfBuzzSharp": "7.3.0.2",
-          "SkiaSharp": "2.88.8"
+          "HarfBuzzSharp": "8.3.0.1",
+          "SkiaSharp": "3.116.1"
         },
         "runtime": {
-          "lib/net6.0/SkiaSharp.HarfBuzz.dll": {
-            "assemblyVersion": "2.88.0.0",
-            "fileVersion": "2.88.8.0"
+          "lib/net8.0/SkiaSharp.HarfBuzz.dll": {
+            "assemblyVersion": "3.116.0.0",
+            "fileVersion": "3.116.1.0"
           }
         }
       },
-      "SkiaSharp.NativeAssets.Linux/2.88.8": {
+      "SkiaSharp.NativeAssets.Linux/2.88.9": {
         "dependencies": {
-          "SkiaSharp": "2.88.8"
+          "SkiaSharp": "3.116.1"
         },
         "runtimeTargets": {
           "runtimes/linux-arm/native/libSkiaSharp.so": {
@@ -416,7 +415,7 @@
           }
         }
       },
-      "SkiaSharp.NativeAssets.macOS/2.88.8": {
+      "SkiaSharp.NativeAssets.macOS/3.116.1": {
         "runtimeTargets": {
           "runtimes/osx/native/libSkiaSharp.dylib": {
             "rid": "osx",
@@ -425,8 +424,8 @@
           }
         }
       },
-      "SkiaSharp.NativeAssets.WebAssembly/2.88.8": {},
-      "SkiaSharp.NativeAssets.Win32/2.88.8": {
+      "SkiaSharp.NativeAssets.WebAssembly/2.88.9": {},
+      "SkiaSharp.NativeAssets.Win32/3.116.1": {
         "runtimeTargets": {
           "runtimes/win-arm64/native/libSkiaSharp.dll": {
             "rid": "win-arm64",
@@ -445,53 +444,52 @@
           }
         }
       },
-      "Svg.Custom/2.0.0": {
+      "Svg.Custom/3.0.0": {
         "dependencies": {
-          "ExCSS": "4.2.3"
+          "ExCSS": "4.3.0"
         },
         "runtime": {
           "lib/net8.0/Svg.Custom.dll": {
-            "assemblyVersion": "2.0.0.0",
-            "fileVersion": "2.0.0.0"
+            "assemblyVersion": "3.0.0.0",
+            "fileVersion": "3.0.0.0"
           }
         }
       },
-      "Svg.Model/2.0.0": {
+      "Svg.Model/3.0.0": {
         "dependencies": {
-          "ShimSkiaSharp": "2.0.0",
-          "Svg.Custom": "2.0.0"
+          "ShimSkiaSharp": "3.0.0",
+          "Svg.Custom": "3.0.0"
         },
         "runtime": {
           "lib/net8.0/Svg.Model.dll": {
-            "assemblyVersion": "2.0.0.0",
-            "fileVersion": "2.0.0.0"
+            "assemblyVersion": "3.0.0.0",
+            "fileVersion": "3.0.0.0"
           }
         }
       },
-      "Svg.Skia/2.0.0": {
+      "Svg.Skia/3.0.0": {
         "dependencies": {
-          "SkiaSharp": "2.88.8",
-          "SkiaSharp.HarfBuzz": "2.88.8",
-          "Svg.Custom": "2.0.0",
-          "Svg.Model": "2.0.0"
+          "SkiaSharp": "3.116.1",
+          "SkiaSharp.HarfBuzz": "3.116.1",
+          "Svg.Custom": "3.0.0",
+          "Svg.Model": "3.0.0"
         },
         "runtime": {
           "lib/net8.0/Svg.Skia.dll": {
-            "assemblyVersion": "2.0.0.0",
-            "fileVersion": "2.0.0.0"
+            "assemblyVersion": "3.0.0.0",
+            "fileVersion": "3.0.0.0"
           }
         }
       },
-      "System.IO.Pipelines/6.0.0": {},
-      "System.Numerics.Vectors/4.5.0": {},
-      "Tmds.DBus.Protocol/0.16.0": {
+      "System.IO.Pipelines/8.0.0": {},
+      "Tmds.DBus.Protocol/0.20.0": {
         "dependencies": {
-          "System.IO.Pipelines": "6.0.0"
+          "System.IO.Pipelines": "8.0.0"
         },
         "runtime": {
-          "lib/net6.0/Tmds.DBus.Protocol.dll": {
-            "assemblyVersion": "0.16.0.0",
-            "fileVersion": "0.16.0.0"
+          "lib/net8.0/Tmds.DBus.Protocol.dll": {
+            "assemblyVersion": "0.20.0.0",
+            "fileVersion": "0.20.0.0"
           }
         }
       }
@@ -503,12 +501,12 @@
       "serviceable": false,
       "sha512": ""
     },
-    "Avalonia/11.1.0": {
+    "Avalonia/11.2.8": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-tqD4Az6xnEa5INS0bduGuv0VFIWCxQ/kJT+yBT+KI8TsofJUYMFjc617rBoObEZoTNyIHiV58LBn6sRw/ht65g==",
-      "path": "avalonia/11.1.0",
-      "hashPath": "avalonia.11.1.0.nupkg.sha512"
+      "sha512": "sha512-zvrffaxj4Jl8yhJ74jrHRTJG2EJM2j9LyXbw2FVk3jhU35Zq7JP+NIBHNW6FCMS1L+bCsrt750wNVjqWPFAYaQ==",
+      "path": "avalonia/11.2.8",
+      "hashPath": "avalonia.11.2.8.nupkg.sha512"
     },
     "Avalonia.Angle.Windows.Natives/2.1.22045.20230930": {
       "type": "package",
@@ -517,152 +515,152 @@
       "path": "avalonia.angle.windows.natives/2.1.22045.20230930",
       "hashPath": "avalonia.angle.windows.natives.2.1.22045.20230930.nupkg.sha512"
     },
-    "Avalonia.BuildServices/0.0.29": {
+    "Avalonia.BuildServices/0.0.31": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-U4eJLQdoDNHXtEba7MZUCwrBErBTxFp6sUewXBOdAhU0Kwzwaa/EKFcYm8kpcysjzKtfB4S0S9n0uxKZFz/ikw==",
-      "path": "avalonia.buildservices/0.0.29",
-      "hashPath": "avalonia.buildservices.0.0.29.nupkg.sha512"
+      "sha512": "sha512-KmCN6Hc+45q4OnF10ge450yVUvWuxU6bdQiyKqiSvrHKpahNrEdk0kG6Ip6GHk2SKOCttGQuA206JVdkldEENg==",
+      "path": "avalonia.buildservices/0.0.31",
+      "hashPath": "avalonia.buildservices.0.0.31.nupkg.sha512"
     },
-    "Avalonia.Controls.ColorPicker/11.1.0": {
+    "Avalonia.Controls.ColorPicker/11.2.8": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-g0y7izkcrE/HlzyzymRCvKIh0PRMlsjd4wyAV1/8GkiK2KXRbiJkcUzU6JlnOml+5FSzurAKoFyuK16zEORqzg==",
-      "path": "avalonia.controls.colorpicker/11.1.0",
-      "hashPath": "avalonia.controls.colorpicker.11.1.0.nupkg.sha512"
+      "sha512": "sha512-AWUoXLK9l8WnlXS+7VvjNXKK31C7Mkj/c4c7FWiyLqPEerjO6fJmAVasNN/8hkzyc1uPadqup8ya9XiEhoudxg==",
+      "path": "avalonia.controls.colorpicker/11.2.8",
+      "hashPath": "avalonia.controls.colorpicker.11.2.8.nupkg.sha512"
     },
-    "Avalonia.Controls.DataGrid/11.1.0": {
+    "Avalonia.Controls.DataGrid/11.2.8": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-0EcjyIzQ2USDkabhi8A06JLZYc0DEvc7SYvGZ+y8pb6zAH9b3CYTm8U2o06pZ7JxX5bmopjbykcleCoPgyWcKQ==",
-      "path": "avalonia.controls.datagrid/11.1.0",
-      "hashPath": "avalonia.controls.datagrid.11.1.0.nupkg.sha512"
+      "sha512": "sha512-qrHnurYxbIn5rSLrBkhGvfWTxORwPR4abyH8fG7L/IE9QRoMdqr4aLsA4WRc8KiaKr9e/krGB2WpK7goAbkd/Q==",
+      "path": "avalonia.controls.datagrid/11.2.8",
+      "hashPath": "avalonia.controls.datagrid.11.2.8.nupkg.sha512"
     },
-    "Avalonia.Desktop/11.1.0": {
+    "Avalonia.Desktop/11.2.8": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-HROfSizLEI6XoFIRrlpOTvEkXO1VER67jroUCMMGh9WpqZt81SeQkooAUpCiKXKzuWnjjHAlEw8pNy0eLdlSwQ==",
-      "path": "avalonia.desktop/11.1.0",
-      "hashPath": "avalonia.desktop.11.1.0.nupkg.sha512"
+      "sha512": "sha512-qQ+9tqS0Wgl8vkBRlOwD+3Cg+iaa5yH/z1gpTjuUcqlr6MrOQvmAHEjTpbfwFM98983UVVq5DIhTKMlHOnx0jA==",
+      "path": "avalonia.desktop/11.2.8",
+      "hashPath": "avalonia.desktop.11.2.8.nupkg.sha512"
     },
-    "Avalonia.Diagnostics/11.1.0": {
+    "Avalonia.Diagnostics/11.2.8": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-9A2iYzqAA7TNreaftI0a9hn2oUPJn7xCqhTdswzsONGFqNvoPzrajCAedIXKh7cIi5ecO5Bug8UvHtM/xY3rBw==",
-      "path": "avalonia.diagnostics/11.1.0",
-      "hashPath": "avalonia.diagnostics.11.1.0.nupkg.sha512"
+      "sha512": "sha512-E6hLOMp9w1lmM15gM676lNczItQsWKKAkZXckVnukWl2uQPMUCKrmXmfO8Zp8xH8rdbigr1x7YT/ZUt6elwPfA==",
+      "path": "avalonia.diagnostics/11.2.8",
+      "hashPath": "avalonia.diagnostics.11.2.8.nupkg.sha512"
     },
-    "Avalonia.Fonts.Inter/11.1.0": {
+    "Avalonia.Fonts.Inter/11.2.8": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-iWI6xD6hZIrBOrwqRnoBTSLFARqyQTvuyyrQH6oKAg5JYlYRdiBJHUbQSbvvHCovt8QCqZuGQvb/sc6CqI3EaA==",
-      "path": "avalonia.fonts.inter/11.1.0",
-      "hashPath": "avalonia.fonts.inter.11.1.0.nupkg.sha512"
+      "sha512": "sha512-A9XKjksoHC+rBbgZBGqN9rLH/9MiaQZHJg5toS+R4CeTqXwF608p1/ZdNM3GUogfDvlwUmdqhX/NHrbz5LNLqg==",
+      "path": "avalonia.fonts.inter/11.2.8",
+      "hashPath": "avalonia.fonts.inter.11.2.8.nupkg.sha512"
     },
-    "Avalonia.FreeDesktop/11.1.0": {
+    "Avalonia.FreeDesktop/11.2.8": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-FY7QFmsMcmlMIDejSGCQeqYOUbK2NizLFAZ6tLRt223HLdUPicKjce5o2HNuAgP1J2kfpFG4CgbXu9bjv5gmfQ==",
-      "path": "avalonia.freedesktop/11.1.0",
-      "hashPath": "avalonia.freedesktop.11.1.0.nupkg.sha512"
+      "sha512": "sha512-KokdEXdNyQBK/YYYXuld0uPyyWcNuSoUMl71LHSJZJWdkT7DufeSHuGVYSyGXp1SXe7zs2IJveySwFJdg2Ke7Q==",
+      "path": "avalonia.freedesktop/11.2.8",
+      "hashPath": "avalonia.freedesktop.11.2.8.nupkg.sha512"
     },
-    "Avalonia.Native/11.1.0": {
+    "Avalonia.Native/11.2.8": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-HVe1HwOfwL7GG8UaUTUYqTP7007Ja6WxP65DG46q7j60kWkg5oomeRHW+Xm4mGd+H1ye5Q9fi1okg+sG24PgFQ==",
-      "path": "avalonia.native/11.1.0",
-      "hashPath": "avalonia.native.11.1.0.nupkg.sha512"
+      "sha512": "sha512-MGezqfzOJhrFZkv71+2CpGQ3bymDacdaB7UWpsgZdI5afuBfVg3ZX3rao+OipLsdswY3HsM2F+QoDP1preFomQ==",
+      "path": "avalonia.native/11.2.8",
+      "hashPath": "avalonia.native.11.2.8.nupkg.sha512"
     },
-    "Avalonia.Remote.Protocol/11.1.0": {
+    "Avalonia.Remote.Protocol/11.2.8": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-Jgv470tVeZRwLwivNGdcdEyQdWhe3bsDF0931L1PvvnLGotMaUPh6cvVZDRwLv7BVues+EA8e5wsicVATl6vMQ==",
-      "path": "avalonia.remote.protocol/11.1.0",
-      "hashPath": "avalonia.remote.protocol.11.1.0.nupkg.sha512"
+      "sha512": "sha512-fAa9bIHct0X7roDO0hIp41t6VRAeNWMkmTV8T3sqdG88IukJBKmeWPLXMlOZ86kIU5V8M3KKtMmb1HNysdDACA==",
+      "path": "avalonia.remote.protocol/11.2.8",
+      "hashPath": "avalonia.remote.protocol.11.2.8.nupkg.sha512"
     },
-    "Avalonia.Skia/11.1.0": {
+    "Avalonia.Skia/11.2.8": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-vmcQx2o3u4kbjtjx9KL+eyB42TwtX46PXNZvxjOwgPQgmL/jSv4CJsRySMDCIGxMLih2qKOJXOjcKXnp2+pDeg==",
-      "path": "avalonia.skia/11.1.0",
-      "hashPath": "avalonia.skia.11.1.0.nupkg.sha512"
+      "sha512": "sha512-OJZWn8dKETeU/Z3kYUZKf9lFpe+BCUHYWAeUxA/8AuT483C/xXnJbLjb8TVfruXNZippHqI0l+U43Z0lybkXbg==",
+      "path": "avalonia.skia/11.2.8",
+      "hashPath": "avalonia.skia.11.2.8.nupkg.sha512"
     },
-    "Avalonia.Svg.Skia/11.1.0": {
+    "Avalonia.Svg.Skia/11.2.7.1": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-zon8QD0u2hd4XEjyki1y9MXV02qrbK7u3cCfUikGB7iamLaCRos/aLFLDDDV2DbdwbVADI/Ovjm0ngi7wZjXAQ==",
-      "path": "avalonia.svg.skia/11.1.0",
-      "hashPath": "avalonia.svg.skia.11.1.0.nupkg.sha512"
+      "sha512": "sha512-G4Rz8jTQZfQnqX5yOtgFZXaq0Luy8rJCxMnL/2dHqvpwaems4KMbI0zQuDMUh+xdmz73S+Rw0wvolCR3HBoBcg==",
+      "path": "avalonia.svg.skia/11.2.7.1",
+      "hashPath": "avalonia.svg.skia.11.2.7.1.nupkg.sha512"
     },
-    "Avalonia.Themes.Fluent/11.1.0": {
+    "Avalonia.Themes.Fluent/11.2.8": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-GL8sOjDajxZANeZfyP3oCAepy1FfXSVc5L3PtWvCDPyrA9YeNonZuOtWy8TPT+iK8i3UzLUgmCsTTpHENB3WDQ==",
-      "path": "avalonia.themes.fluent/11.1.0",
-      "hashPath": "avalonia.themes.fluent.11.1.0.nupkg.sha512"
+      "sha512": "sha512-tbx3/YEskdM2YAfy4V1kvYxHlD8zuWgCUCs1ICubH1GaAVwuVBvRsWy4EhiG/Pm2msPGwsnB1BZM6itJmicwFA==",
+      "path": "avalonia.themes.fluent/11.2.8",
+      "hashPath": "avalonia.themes.fluent.11.2.8.nupkg.sha512"
     },
-    "Avalonia.Themes.Simple/11.1.0": {
+    "Avalonia.Themes.Simple/11.2.8": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-+BLhY8qPBztf6BtNWrVoSVz8UxA7FM6xEldF83jPMQ7CZXQ0lvWMLLrcMCN+HKjIfIaQhVSNSkji2h/ijIz4ug==",
-      "path": "avalonia.themes.simple/11.1.0",
-      "hashPath": "avalonia.themes.simple.11.1.0.nupkg.sha512"
+      "sha512": "sha512-x4QslA33tCmjZEosu1leUoDvCUPFX0YsDwAiSiKmfG2Gr98wqbx25C5avgwYmu4SmGsW65t6DabEgxWFwZ48oA==",
+      "path": "avalonia.themes.simple/11.2.8",
+      "hashPath": "avalonia.themes.simple.11.2.8.nupkg.sha512"
     },
-    "Avalonia.Win32/11.1.0": {
+    "Avalonia.Win32/11.2.8": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-M2TZaijlaZrxqVVr6IfIZ20pOJc3Ng/4KaXeMnyWCWw2g0xNW1HMo4wICt9YIGf3b6aCw9EcSW1p22Caa20uZQ==",
-      "path": "avalonia.win32/11.1.0",
-      "hashPath": "avalonia.win32.11.1.0.nupkg.sha512"
+      "sha512": "sha512-6N1f+iy+vGYjRJV2ZIBogTSk5NQBhOUN1eKbVX5wq4v4UngXu1Wt1vWnMHZnxalWwkxQAiRGzYaHH/qgHSQBaw==",
+      "path": "avalonia.win32/11.2.8",
+      "hashPath": "avalonia.win32.11.2.8.nupkg.sha512"
     },
-    "Avalonia.X11/11.1.0": {
+    "Avalonia.X11/11.2.8": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-LaDcOYi/JiXHq6cfwP2+sFknu7dBJcE9QGWniHVwC69gieRgtsw1L4Kd0beYJO873zVFzWYAp06H+m6zcqoTQw==",
-      "path": "avalonia.x11/11.1.0",
-      "hashPath": "avalonia.x11.11.1.0.nupkg.sha512"
+      "sha512": "sha512-wTFj/CKWqD16LkhfwUlFeNtpH7cErMQUr03F+0NMVtEiNJRFRprvII4TsQXGAmBkpLUfMU8x9g9szYx+s7hMsw==",
+      "path": "avalonia.x11/11.2.8",
+      "hashPath": "avalonia.x11.11.2.8.nupkg.sha512"
     },
-    "ExCSS/4.2.3": {
+    "ExCSS/4.3.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-SyeAfu2wL5247sipJoPUzQfjiwQtfSd8hN4IbgoyVcDx4PP6Dud4znwPRibWQzLtTlUxYYcbf5f4p+EfFC7KtQ==",
-      "path": "excss/4.2.3",
-      "hashPath": "excss.4.2.3.nupkg.sha512"
+      "sha512": "sha512-LyVZ925Cl6Z4TJrbogt3+DkvanYWZcJs0tzKg8lWHAY9PgniVMluNy+l5vXDMmvt5gBgekULasEnUqVAavPuZw==",
+      "path": "excss/4.3.0",
+      "hashPath": "excss.4.3.0.nupkg.sha512"
     },
-    "HarfBuzzSharp/7.3.0.2": {
+    "HarfBuzzSharp/8.3.0.1": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-0tCd6HyCmNsX/DniCp2b00fo0xPbdNwKOs9BxxyT8oOOuMlWjcSFwzONKyeckCKVBFEsbSmsAHPDTqxoSDwZMg==",
-      "path": "harfbuzzsharp/7.3.0.2",
-      "hashPath": "harfbuzzsharp.7.3.0.2.nupkg.sha512"
+      "sha512": "sha512-rwLpl+W6uqu0DuvzqNhTMuFcXfy1Vc0uq0YXgPEmtTSfeUSAye1FcARrm2YIPOSiCBwBOGu3cLvMX5Fp6OKe2g==",
+      "path": "harfbuzzsharp/8.3.0.1",
+      "hashPath": "harfbuzzsharp.8.3.0.1.nupkg.sha512"
     },
-    "HarfBuzzSharp.NativeAssets.Linux/7.3.0.2": {
+    "HarfBuzzSharp.NativeAssets.Linux/7.3.0.3": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-aKa5J1RqjXKAtdcZJp5wjC78klfBIzJHM6CneN76lFmQ9LLRJA9Oa0TkIDaV8lVLDKMAy5fCKHXFlXUK1YfL/g==",
-      "path": "harfbuzzsharp.nativeassets.linux/7.3.0.2",
-      "hashPath": "harfbuzzsharp.nativeassets.linux.7.3.0.2.nupkg.sha512"
+      "sha512": "sha512-hkcHeTfOyIeJuPtO/QfoqkDvV/MXebZYaA/Bn/S+nXsjH3Wt9oQ6okH2kklYO+1UUdBSJFd67bi9IrpQXI2mPw==",
+      "path": "harfbuzzsharp.nativeassets.linux/7.3.0.3",
+      "hashPath": "harfbuzzsharp.nativeassets.linux.7.3.0.3.nupkg.sha512"
     },
-    "HarfBuzzSharp.NativeAssets.macOS/7.3.0.2": {
+    "HarfBuzzSharp.NativeAssets.macOS/8.3.0.1": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-nycYH/WLJ6ogm+I+QSFCdPJsdxSb5GANWYbQyp1vsd/KjXN56RVUJWPhbgP2GKb/Y7mrsHM7EProqVXlO/EMsA==",
-      "path": "harfbuzzsharp.nativeassets.macos/7.3.0.2",
-      "hashPath": "harfbuzzsharp.nativeassets.macos.7.3.0.2.nupkg.sha512"
+      "sha512": "sha512-2o6U05LAmK+rwX7TvmJ2X0anXJG2hSE7kHVmCshhHy0tKfByJ5ykBacvhmmooHchlOwq15KBZeROGafCT8nN+g==",
+      "path": "harfbuzzsharp.nativeassets.macos/8.3.0.1",
+      "hashPath": "harfbuzzsharp.nativeassets.macos.8.3.0.1.nupkg.sha512"
     },
-    "HarfBuzzSharp.NativeAssets.WebAssembly/7.3.0.2": {
+    "HarfBuzzSharp.NativeAssets.WebAssembly/7.3.0.3": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-pR6H16NOAjIhfXomYsgN5anGbOHSfIA8z0RoWEVx8vgLySxz9Jie4DnQ/paWTh5MTtBC8XKkTUI7uKMXcq/Pxw==",
-      "path": "harfbuzzsharp.nativeassets.webassembly/7.3.0.2",
-      "hashPath": "harfbuzzsharp.nativeassets.webassembly.7.3.0.2.nupkg.sha512"
+      "sha512": "sha512-OpheDNp9a3nC6hWNACemWkNEXJ4tWP3Gw9bykw3FbyeEmU2nUDtLIp6VgNnjHAPRMgUs1Kl7m4gJpzVYwC7CZw==",
+      "path": "harfbuzzsharp.nativeassets.webassembly/7.3.0.3",
+      "hashPath": "harfbuzzsharp.nativeassets.webassembly.7.3.0.3.nupkg.sha512"
     },
-    "HarfBuzzSharp.NativeAssets.Win32/7.3.0.2": {
+    "HarfBuzzSharp.NativeAssets.Win32/8.3.0.1": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-DpF9JBzwws2dupOLnjME65hxQWWbN/GD40AoTkwB4S05WANvxo3n81AnQJKxWDCnrWfWhLPB36OF27TvEqzb/A==",
-      "path": "harfbuzzsharp.nativeassets.win32/7.3.0.2",
-      "hashPath": "harfbuzzsharp.nativeassets.win32.7.3.0.2.nupkg.sha512"
+      "sha512": "sha512-ow0DtGEUjo65qhiI22of7qiVbN1xDFsZ5P5xJljRmGZ5WSxNy+1batLNJFGxahqhB1MTHYV8kAXf0GqC8WaevQ==",
+      "path": "harfbuzzsharp.nativeassets.win32/8.3.0.1",
+      "hashPath": "harfbuzzsharp.nativeassets.win32.8.3.0.1.nupkg.sha512"
     },
     "MicroCom.Runtime/0.11.0": {
       "type": "package",
@@ -671,96 +669,89 @@
       "path": "microcom.runtime/0.11.0",
       "hashPath": "microcom.runtime.0.11.0.nupkg.sha512"
     },
-    "ShimSkiaSharp/2.0.0": {
+    "ShimSkiaSharp/3.0.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-J+nzTe97Q19rzbCbTA8r6l1T89JP+XjMhaAOEHoE9FG7RiI/OkCuBY5JPlzNZoUYFXG3fBwlTMetPMkSCV8Kmw==",
-      "path": "shimskiasharp/2.0.0",
-      "hashPath": "shimskiasharp.2.0.0.nupkg.sha512"
+      "sha512": "sha512-KY75HkOWk1RaOQRzOdJagoO2WBkX5jIchwUjBNI15Ezm8mHQMLay1JqEpDtiQK34UBv1U3mfOeJl7Ulm+1tyhw==",
+      "path": "shimskiasharp/3.0.0",
+      "hashPath": "shimskiasharp.3.0.0.nupkg.sha512"
     },
-    "SkiaSharp/2.88.8": {
+    "SkiaSharp/3.116.1": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-bRkp3uKp5ZI8gXYQT57uKwil1uobb2p8c69n7v5evlB/2JNcMAXVcw9DZAP5Ig3WSvgzGm2YSn27UVeOi05NlA==",
-      "path": "skiasharp/2.88.8",
-      "hashPath": "skiasharp.2.88.8.nupkg.sha512"
+      "sha512": "sha512-DNDwbRjP+aMo27dV2h/uHCVTcWubWWxHnPLiePNyl24f4Pv43mQ8AQQeseOrKR+J3AOCEs6t0sUjo0aa3j3RWQ==",
+      "path": "skiasharp/3.116.1",
+      "hashPath": "skiasharp.3.116.1.nupkg.sha512"
     },
-    "SkiaSharp.HarfBuzz/2.88.8": {
+    "SkiaSharp.HarfBuzz/3.116.1": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-ajSyJ2D17R0kZ4FwKwFrJTsYs3D3Y9iRBLhNecROR7dOxC6VTFaMPXJuwQB8KYpAqgmb2JAJFEgZ3i8MaaIw1g==",
-      "path": "skiasharp.harfbuzz/2.88.8",
-      "hashPath": "skiasharp.harfbuzz.2.88.8.nupkg.sha512"
+      "sha512": "sha512-ibDG1+quN86vBd9ztjDAC9wnvS1nRZ6ydTUOSod4NsRHWdLLGzWYn1IOF4Cg9iJh5cQHdpzhUZBQE0JMKznrow==",
+      "path": "skiasharp.harfbuzz/3.116.1",
+      "hashPath": "skiasharp.harfbuzz.3.116.1.nupkg.sha512"
     },
-    "SkiaSharp.NativeAssets.Linux/2.88.8": {
+    "SkiaSharp.NativeAssets.Linux/2.88.9": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-0FO6YA7paNFBMJULvEyecPmCvL9/STvOAi5VOUw2srqJ7pNTbiiZkfl7sulAzcumbWgfzaVjRXYTgMj7SoUnWQ==",
-      "path": "skiasharp.nativeassets.linux/2.88.8",
-      "hashPath": "skiasharp.nativeassets.linux.2.88.8.nupkg.sha512"
+      "sha512": "sha512-cWSaJKVPWAaT/WIn9c8T5uT/l4ETwHxNJTkEOtNKjphNo8AW6TF9O32aRkxqw3l8GUdUo66Bu7EiqtFh/XG0Zg==",
+      "path": "skiasharp.nativeassets.linux/2.88.9",
+      "hashPath": "skiasharp.nativeassets.linux.2.88.9.nupkg.sha512"
     },
-    "SkiaSharp.NativeAssets.macOS/2.88.8": {
+    "SkiaSharp.NativeAssets.macOS/3.116.1": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-6Kn5TSkKlfyS6azWHF3Jk2sW5C4jCE5uSshM/5AbfFrR+5n6qM5XEnz9h4VaVl7LTxBvHvMkuPb/3bpbq0vxTw==",
-      "path": "skiasharp.nativeassets.macos/2.88.8",
-      "hashPath": "skiasharp.nativeassets.macos.2.88.8.nupkg.sha512"
+      "sha512": "sha512-3KPvpKysDmEMt0NnAZPX5U6KFk0LmG/72/IjAIJemIksIZ0Tjs9pGpr3L+zboVCv1MLVoJLKl3nJDXUG6Jda6A==",
+      "path": "skiasharp.nativeassets.macos/3.116.1",
+      "hashPath": "skiasharp.nativeassets.macos.3.116.1.nupkg.sha512"
     },
-    "SkiaSharp.NativeAssets.WebAssembly/2.88.8": {
+    "SkiaSharp.NativeAssets.WebAssembly/2.88.9": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-S3qRo8c+gVYOyfrdf6FYnjx/ft+gPkb4dNY2IPv5Oy5yNBhDhXhKqHFr9h4+ne6ZU+7D4dbuRQqsIqCo8u1/DA==",
-      "path": "skiasharp.nativeassets.webassembly/2.88.8",
-      "hashPath": "skiasharp.nativeassets.webassembly.2.88.8.nupkg.sha512"
+      "sha512": "sha512-kt06RccBHSnAs2wDYdBSfsjIDbY3EpsOVqnlDgKdgvyuRA8ZFDaHRdWNx1VHjGgYzmnFCGiTJBnXFl5BqGwGnA==",
+      "path": "skiasharp.nativeassets.webassembly/2.88.9",
+      "hashPath": "skiasharp.nativeassets.webassembly.2.88.9.nupkg.sha512"
     },
-    "SkiaSharp.NativeAssets.Win32/2.88.8": {
+    "SkiaSharp.NativeAssets.Win32/3.116.1": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-O9QXoWEXA+6cweR4h3BOnwMz+pO9vL9mXdjLrpDd0w1QzCgWmLQBxa1VgySDITiH7nQndrDG1h6937zm9pLj1Q==",
-      "path": "skiasharp.nativeassets.win32/2.88.8",
-      "hashPath": "skiasharp.nativeassets.win32.2.88.8.nupkg.sha512"
+      "sha512": "sha512-dRQ75MCI8oz6zAs2Y1w6pq6ARs4MhdNG+gf3doOxOxdnueDXffQLGQIxON54GDoxc0WjKOoHMKBR4DhaduwwQw==",
+      "path": "skiasharp.nativeassets.win32/3.116.1",
+      "hashPath": "skiasharp.nativeassets.win32.3.116.1.nupkg.sha512"
     },
-    "Svg.Custom/2.0.0": {
+    "Svg.Custom/3.0.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-YqPAdGu00Aru+VvO4BIKOSVWK+z8vciBhBtG6RSWL+wuIhhIM6OU9fw7bN1vti/oTWwfvaUmh0EKWxHKzzaotA==",
-      "path": "svg.custom/2.0.0",
-      "hashPath": "svg.custom.2.0.0.nupkg.sha512"
+      "sha512": "sha512-VBmxWaB+RSvjaW5ZF9AStVPN4G+/xuky8Sgic4wT6RWw3/0LIoFeJxuq8xE/tCZzIcU78EKW50a21Hi137RooA==",
+      "path": "svg.custom/3.0.0",
+      "hashPath": "svg.custom.3.0.0.nupkg.sha512"
     },
-    "Svg.Model/2.0.0": {
+    "Svg.Model/3.0.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-YwdGhay2Wh2sc0WcoYlgiliajsf3utZMEXbm1Wu9LLpLk2rRVSA187p+xGs8pn2GYwLrjfBLWBevXTB4kxrzDg==",
-      "path": "svg.model/2.0.0",
-      "hashPath": "svg.model.2.0.0.nupkg.sha512"
+      "sha512": "sha512-6tq0UfaFbydW4NuS9G2RSLLTQSKLfG0tPZis7zwFFIKmIhodydLnsdCFIsBYyVrzc8l7Y6fxL+MHVSpY5gy6cA==",
+      "path": "svg.model/3.0.0",
+      "hashPath": "svg.model.3.0.0.nupkg.sha512"
     },
-    "Svg.Skia/2.0.0": {
+    "Svg.Skia/3.0.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-zNYVxfpBmeW2BkzmgEl7gL8hhr//Bwub3dJs+uGjsUIO15bVl9DvHq3wx+G70NPjpgUg+t5zfseliMKGFy3YNw==",
-      "path": "svg.skia/2.0.0",
-      "hashPath": "svg.skia.2.0.0.nupkg.sha512"
+      "sha512": "sha512-/FjiHp+lxi9gTc/Cu9yPEpOBeeIMQKn70ju+8X7VDKZAbGp9ToGjBKWyChfkVe7ucxdwvhSCMiOKjXHGZHibmg==",
+      "path": "svg.skia/3.0.0",
+      "hashPath": "svg.skia.3.0.0.nupkg.sha512"
     },
-    "System.IO.Pipelines/6.0.0": {
+    "System.IO.Pipelines/8.0.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-mXX66shZ4xLlI3vNLaJ0lt8OIZdmXTvIqXRdQX5HLVGSkLhINLsVhyZuX2UdRFnOGkqnwmMUs40pIIQ7mna4+A==",
-      "path": "system.io.pipelines/6.0.0",
-      "hashPath": "system.io.pipelines.6.0.0.nupkg.sha512"
+      "sha512": "sha512-FHNOatmUq0sqJOkTx+UF/9YK1f180cnW5FVqnQMvYUN0elp6wFzbtPSiqbo1/ru8ICp43JM1i7kKkk6GsNGHlA==",
+      "path": "system.io.pipelines/8.0.0",
+      "hashPath": "system.io.pipelines.8.0.0.nupkg.sha512"
     },
-    "System.Numerics.Vectors/4.5.0": {
+    "Tmds.DBus.Protocol/0.20.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-QQTlPTl06J/iiDbJCiepZ4H//BVraReU4O4EoRw1U02H5TLUIT7xn3GnDp9AXPSlJUDyFs4uWjWafNX6WrAojQ==",
-      "path": "system.numerics.vectors/4.5.0",
-      "hashPath": "system.numerics.vectors.4.5.0.nupkg.sha512"
-    },
-    "Tmds.DBus.Protocol/0.16.0": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-9Ne9AvrRWrDQvzbMcbTz3EaGRE1vQmkeeu0Xp7Ii0Wdlhwfjst8FDRas+RBslU5kdPWs2aeMLErzyT1DwH9zeA==",
-      "path": "tmds.dbus.protocol/0.16.0",
-      "hashPath": "tmds.dbus.protocol.0.16.0.nupkg.sha512"
+      "sha512": "sha512-2gkt2kuYPhDKd8gtl34jZSJOnn4nRJfFngCDcTZT/uySbK++ua0YQx2418l9Rn1Y4dE5XNq6zG9ZsE5ltLlNNw==",
+      "path": "tmds.dbus.protocol/0.20.0",
+      "hashPath": "tmds.dbus.protocol.0.20.0.nupkg.sha512"
     }
   }
 }
